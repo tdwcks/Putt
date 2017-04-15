@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "holeOne.touchesBegan(Set&lt;UITouch&gt;, with : UIEvent?) -&gt; ():holeOne.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ball.physicsBody!.velocity.dx">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
